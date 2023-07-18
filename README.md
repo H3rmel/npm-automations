@@ -17,23 +17,23 @@ O projeto conta com algumas tarefas, entre elas
 Para rodar o projeto é bem simples, basta clonar o repositório:
 
 ```
-  git clone https://github.com/H3rmel/npm-automations.git
+git clone https://github.com/H3rmel/npm-automations.git
 ```
 
 Com o repositório clonado, execute os seguintes comandos:
 
 ```
-  npm install
-  OU
-  pnpm install
+npm install
+OU
+pnpm install
 ```
 
 Feito isso, execute o seguinte comando:
 
 ```
-  npm run start
-  OU
-  pnpm start
+npm run start
+OU
+pnpm start
 ```
 
 Feito, projeto rodando! 😉
